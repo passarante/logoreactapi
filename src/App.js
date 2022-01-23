@@ -1,9 +1,9 @@
 import React from 'react';
-import Api from './components/Api';
+import LoginPage from './pages/auth/LoginPage';
 
 const App = () => {
   return <div>
-    <Api />
+    <LoginPage />
   </div>;
 };
 
